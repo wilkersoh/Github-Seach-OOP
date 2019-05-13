@@ -1,3 +1,6 @@
+import Github from './js/github';
+import UI from './js/ui';
+
 const searchUser = document.querySelector('#search');
 const github = new Github;
 const ui = new UI;
